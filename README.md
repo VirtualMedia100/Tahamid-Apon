@@ -1,2 +1,2 @@
 # Tahamid-Apon
-A media that people can get any media.
+A media app that people can get any media.
